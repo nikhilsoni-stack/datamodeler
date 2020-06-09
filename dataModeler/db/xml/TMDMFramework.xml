@@ -1,0 +1,15 @@
+<database architecture="MySQL" connectionString="jdbc:mysql://localhost:3306/tdmodel" username="root" password="nikhil" driver="com.mysql.jdbc.Driver" />
+<entity class="com.thinking.machines.tdmodel.dl.DatabaseArchitecture" />
+<entity class="com.thinking.machines.tdmodel.dl.MemberAddress" />
+<entity class="com.thinking.machines.tdmodel.dl.DatabaseTable" />
+<entity class="com.thinking.machines.tdmodel.dl.Project" />
+<entity class="com.thinking.machines.tdmodel.dl.DatabaseEngine" />
+<entity class="com.thinking.machines.tdmodel.dl.MemberSubscription" />
+<entity class="com.thinking.machines.tdmodel.dl.SubscriptionPlan" />
+<entity class="com.thinking.machines.tdmodel.dl.DatabaseArchitectureDataType" />
+<entity class="com.thinking.machines.tdmodel.dl.Administrator" />
+<entity class="com.thinking.machines.tdmodel.dl.MemberVertificationToken" />
+<entity class="com.thinking.machines.tdmodel.dl.Member" />
+<entity class="com.thinking.machines.tdmodel.dl.DatabaseTableField" />
+<entity class="com.thinking.machines.tdmodel.dl.DatabaseTableRelationshipKey" />
+<entity class="com.thinking.machines.tdmodel.dl.DatabaseTableRelationship" />
